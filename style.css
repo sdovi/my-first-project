@@ -1,0 +1,556 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    width: 90%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,300&display=swap');
+
+header {
+    background: url(/navbar/living-room-interior-in-loft-apartment-with-armcha-2021-09-03-20-17-07-utc\ 1.png) no-repeat center center/cover;
+    height: 100vh;
+}
+
+nav {
+    background: none !important;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.a-stroy p {
+    font-size: 12px;
+}
+
+.a-stroy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.iywt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.gars {
+    gap: 10px;
+    display: flex;
+}
+
+p {
+    margin: 0 !important;
+}
+
+.phone {
+    font-size: 20px;
+    font-weight: 30px;
+}
+
+span {
+    color: #FFC771;
+}
+
+.vipolnit {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #593F0D;
+}
+
+.dizayn {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #593F0D;
+}
+
+.sect-nav-1 {
+    display: flex;
+    height: 90vh;
+    justify-content: start;
+    align-items: center;
+
+}
+
+.bottons {
+
+    background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+    box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+    border: none;
+    border-radius: 20px;
+    padding: 25px 40px;
+
+}
+
+.palka {
+    align-items: center;
+    display: flex;
+    height: 10vh;
+}
+
+.sectone-content {
+    text-align: center;
+}
+
+.sectone-content {
+    margin-top: 40px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #593F0D;
+}
+
+.cards {
+    background: url(/sectone/1.png) no-repeat center center/cover;
+    width: 100%;
+    height: 410px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sectone-text h1 {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33.75px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.sectone-text p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
+
+.podrobnee {
+    padding-top: 150px;
+}
+
+.sectone-block {
+    margin-top: 43px;
+}
+
+.konsultachiyz {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 65px;
+}
+
+.secttwo-content {
+    text-align: center;
+    align-items: center;
+
+}
+
+.secttwo-content {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #593F0D;
+}
+
+.secttwo-cadr {
+    width: 100%;
+    
+    -webkit-box-shadow: 5px 1px 59px 1px rgba(34, 60, 80, 0.29);
+    -moz-box-shadow: 5px 1px 59px 1px rgba(34, 60, 80, 0.29);
+    box-shadow: 5px 1px 59px 1px rgba(34, 60, 80, 0.29);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.secttwo-img {
+    padding: 20px 23px;
+    
+}
+.secttwo-img img{
+    width: 100%;
+}
+.secttwo-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 28px;
+
+    color: #593F0D;
+}
+
+.secttwo-text h1 {
+    font-size: 30px;
+
+}
+
+.secttwo-text {
+    padding: 0px 23px;
+}
+
+.secttwo-text p {
+    font-style: normal;
+    font-weight: 350;
+    font-size: 30px;
+    line-height: 18px;
+
+    color: #593F0D;
+}
+
+.secttwo-text2 {
+    padding: 0px 23px;
+    margin-top: 16px;
+}
+
+.secttwo-button {
+    padding: 0px 20px;
+
+}
+
+.bottons2 {
+    background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+    box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+    border: none;
+    border-radius: 20px;
+    padding: 28px 59px;
+    width: 100%;
+    margin-top: 127px;
+    margin-bottom: 10px;
+}
+.secttwo-text02{
+    text-align: center;
+    align-items: center;
+    margin-top: 41px;
+    font-style: normal;
+font-weight: 400;
+line-height: 30px;
+/* identical to box height */
+
+font-size: 25px;
+text-align: center;
+border-bottom: 1px solid black;
+    width: fit-content;
+    margin: 0 auto !important;
+
+color: #593F0D;
+}
+.sectthree-content{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+.mur{
+    display: flex;
+    align-items: center;
+}
+.sectthee-card{
+    border-radius: 10px;
+    
+    width: 100% !important;
+    min-height: 10vh !important;
+    -webkit-box-shadow: 0px 5px 18px 9px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 0px 5px 18px 9px rgba(34, 60, 80, 0.2);
+box-shadow: 0px 5px 18px 9px rgba(34, 60, 80, 0.2);
+}
+/* .sectthee-img{
+    padding: 25px 25px;    
+} */
+.sectthee-txt h1{
+    
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 28px;
+
+color: #593F0D;
+
+
+}
+.sectthee-txt p{
+    font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #593F0D;
+}
+.sectthee-block{
+    text-align: center;
+    align-items: center;
+}
+.sectfour-fon{
+    background: url(/fon-stroitel/1625236697_50-almode_ru-p-krasivie-dizainerskie-kvartiri-51\ 1.png) no-repeat center center/cover;
+    height: 100vh;
+    border-radius:10%;
+}
+.sectfour-text2{
+    /* height: 70px; */
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #593F0D;
+}
+.sectfour-text{
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;
+/* identical to box height */
+color: #593F0D;
+}
+.sectfour-text{
+        margin-top: 90px;
+}
+.sectfour-fon{
+    margin-top: 95px;
+}
+.sectfour-block{
+    width: 100%;
+    /* height: 476px; */
+    border-radius: 10px;
+    background-color: white;
+
+}
+.sectfour-text03{
+    padding: 32px 30px;
+}
+.sectfour-text03 h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #593F0D;
+
+}
+.sectfour.text03 p{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #373737;
+
+}
+.sectfour-text04 p{
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #A8A8A8;
+
+}
+.sectfour-imya{
+    padding-top: 36px;
+    padding-bottom: 20px;
+}
+.sectfour-telefon{
+    padding-top: 36px;
+    padding-bottom: 36px;
+
+}
+.bottons05{
+
+    background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+    box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+    border: none;
+    border-radius: 20px;
+    padding: 25px 70px;
+    margin: 0px 30px;
+}
+.sectfour-fon .row{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sectfive-text{
+    text-align: center;
+    align-items: center;
+    margin-top: 75px;
+}
+.sectfive-block1{
+    display: flex;
+    align-items: center;
+    /* width: 724px;
+    height: 84px; */
+    
+}
+.sectfive-blocktext2 h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 28px;
+
+color: #593F0D;
+
+}
+.sectfive-block1{
+    padding: 5px 5px;
+}
+.sectfive-blocks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .sectfive-block{
+    margin-top: 30px;
+} */
+.sectfive-block1{
+    gap: 20px;
+}
+.sectsix-text{
+    text-align: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.sectsix-logo{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sectsix-logo img{
+    width: 100%;
+}
+.bottons31{
+    background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+    box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+    border: none;
+    border-radius: 20px;
+    padding: 25px 70px;
+    margin-top: 30px;
+
+}
+
+.sectseven-textobsh{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 40px;
+    
+}
+.footer-text{
+
+    font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.foot{
+    margin-top: 160px;
+}
+.footer-text12logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center; 
+    gap: 190px;
+}
+.footer-img img{
+    border-radius: 30px;
+    width: 100%;
+}
+.secttwo-text02{
+    margin-top: 30px;
+}
+
+
+@media screen and (max-width: 600px){
+    .sectfour-block{
+        display: none;
+    }
+    .sectthee-txt h1{
+        font-size: 17px;
+    }
+    .sectthee-txt p{
+        font-size: 14px;
+    }
+    .a-stroy p {
+        display: none;
+    }
+    .dizayn h1{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        color: #593F0D;
+    }
+    .vipolnit {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px;
+        color: #593F0D;
+    }
+    .bottons {
+
+        background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+        box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+        border: none;
+        border-radius: 20px;
+        padding: 20px 30px;
+    
+    }
+    .bottons31{
+        background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+        box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+        border: none;
+        border-radius: 20px;
+        padding: 20px 50px;
+        margin-top: 30px;
+    
+    }
+}
+.bottons:hover {
+    padding: 40px 60px;
+    border-radius: 40px;
+
+}
